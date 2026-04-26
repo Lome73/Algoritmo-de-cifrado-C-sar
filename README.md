@@ -19,8 +19,8 @@ El algoritmo César consiste en desplazar cada letra del mensaje original un nú
 Por ejemplo:
 
 Texto original: HOLA
-Desplazamiento: 3
-Resultado: KROD
+Desplazamiento: 5
+Resultado: MTQF
 
 <img width="458" height="569" alt="image" src="https://github.com/user-attachments/assets/131b5d41-73c1-4535-907a-1348f9cc4976" />
 
