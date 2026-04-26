@@ -19,7 +19,9 @@ El algoritmo César consiste en desplazar cada letra del mensaje original un nú
 Por ejemplo:
 
 Texto original: HOLA
+
 Desplazamiento: 5
+
 Resultado: MTQF
 
 <img width="458" height="569" alt="image" src="https://github.com/user-attachments/assets/131b5d41-73c1-4535-907a-1348f9cc4976" />
@@ -30,16 +32,21 @@ Resultado: MTQF
 
 El programa también permite realizar el proceso inverso (descifrado), restando el desplazamiento.
 
+
 🖥️ Características
 Interfaz gráfica amigable con Java Swing
 Entrada de texto para el mensaje
 Botones para cifrar y descifrar
 Uso de desplazamiento configurable
 Soporte para letras mayúsculas y minúsculas
+
+
 🛠️ Tecnologías utilizadas
 Java
 Swing (GUI)
 NetBeans (estructura del proyecto)
+
+
 ▶️ Cómo ejecutar
 Abrir el proyecto en NetBeans
 Compilar el proyecto
